@@ -1,9 +1,10 @@
 # mass-ip.py
-Mass domain to ip address python script
+Mass domain to IP address python script
 
 Requirement:
-python2/3.7
+*Python version required 2/3.7
 
 
-Usage~
+Usage~ :
+
 python ip.py
